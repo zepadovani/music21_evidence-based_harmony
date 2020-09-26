@@ -11,3 +11,5 @@ By now there are two methods that can be used to search things:
 
 - searchD7, searches Dominant 7 candidates: colors notes red (the seventh is brighter)
 - searchS65, searches added 6th candidates: colors notes orange.
+
+Warning: these methods are not fully functional and return some false positives!
